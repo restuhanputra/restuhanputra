@@ -20,3 +20,8 @@ I love to learn about how things work and try new tools and technologies. I love
 
 <h3><b>GitHub stats</b></h3>
 <details>
+<summary><b>Detail</b></summary>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=restuhanputra)
+----
+</details>

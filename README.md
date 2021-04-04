@@ -1,8 +1,9 @@
 <h2 align='center'><br> Hey folks <img src="assets/gif/Hi.gif" width="30px">, I'm Restu.
 Nice to meet you ! </br></h2>
 
-<p>I'm Website Developer, Freelancer, and Linux Hobbyist.
+<p>I'm Website Developer, Freelancer, and Linux Hobbyist.</p>
 
+<p>
 I love to learn about how things work and try new tools and technologies. I love to share time with developer communities and events.
 </p>
 
@@ -44,8 +45,3 @@ class Tools extends WebDeveloper {
 
 <h3><b>GitHub stats</b></h3>
 <details>
-<summary><b>Detail</b></summary>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=restuhanputra)
-----
-</details>
